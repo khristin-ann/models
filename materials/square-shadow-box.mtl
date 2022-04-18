@@ -1,0 +1,37 @@
+newmtl Wood-Texture
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm square-shadow-box/Wood-Texture_metallic.png
+adobe_translucence 0
+map_Pr square-shadow-box/Wood-Texture_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd square-shadow-box/Wood-Texture_baseColor.png
+norm square-shadow-box/Wood-Texture_normal.png
+
+newmtl y-axis-dividersy-axis-mat
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm square-shadow-box/y-axis-dividersy-axis-mat_metallic.png
+adobe_translucence 0
+map_Pr square-shadow-box/y-axis-dividersy-axis-mat_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd square-shadow-box/y-axis-dividersy-axis-mat_baseColor.png
+norm square-shadow-box/y-axis-dividersy-axis-mat_normal.png
